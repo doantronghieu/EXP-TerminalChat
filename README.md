@@ -1,1 +1,1 @@
-https://github.com/doantronghieu/EXP-TerminalChat/blob/main/video.mkv
+https://github.com/doantronghieu/EXP-TerminalChat/raw/main/video.mp4
